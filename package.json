@@ -1,0 +1,22 @@
+{
+  "name": "vuepress-rspack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.10",
+    "dotenv-cli": "^7.4.1",
+    "prettier": "^3.2.5",
+    "tsconfig-vuepress": "^4.5.0",
+    "tslib": "^2.6.2",
+    "tsup": "^8.0.2",
+    "tsx": "^4.9.3",
+    "typescript": "^5.4.5"
+  }
+}
